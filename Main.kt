@@ -1,6 +1,4 @@
-package flashcards
 import java.io.File
-import kotlin.math.log
 
 fun TempForAskFunction(answer: String, map: Map<String, String>): String? {
 
